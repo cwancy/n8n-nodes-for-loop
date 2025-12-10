@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-for-loop",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"description": "The node is functionally similar to a traditional for-loop. It executes the connected branch a specified number of times and then exits through the done output.",
 	"license": "MIT",
 	"homepage": "",
