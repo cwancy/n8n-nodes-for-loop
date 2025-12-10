@@ -33,9 +33,10 @@ export class ForLoop implements INodeType {
 			},
 		],
 		icon: {
-			dark: 'file:LoopIcon.svg',
+			dark: 'file:LoopIcon-dark.svg',
 			light: 'file:LoopIcon.svg',
 		},
+		usableAsTool: true,
 	};
 
 	async execute(this: IExecuteFunctions): Promise<INodeExecutionData[][]> {

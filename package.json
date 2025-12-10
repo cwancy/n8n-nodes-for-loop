@@ -1,7 +1,7 @@
 {
 	"name": "n8n-nodes-for-loop",
 	"version": "0.1.0",
-	"description": "",
+	"description": "The node is functionally similar to a traditional for-loop. It executes the connected branch a specified number of times and then exits through the done output.",
 	"license": "MIT",
 	"homepage": "",
 	"keywords": [
@@ -39,7 +39,7 @@
 		"@n8n/node-cli": "*",
 		"eslint": "9.32.0",
 		"prettier": "3.6.2",
-		"release-it": "^19.0.4",
+		"release-it": "^19.0.6",
 		"typescript": "5.9.2"
 	},
 	"peerDependencies": {
